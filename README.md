@@ -12,6 +12,10 @@ I'm dixiatielu, a Chinese senior high student.
 
 **See you in 2022 summer!**
 
+Here are my GitHub stats:
+![](https://github-readme-stats.vercel.app/api?username=dixiatielu&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dixiatielu&theme=dracula&layout=compact)
+
 - 🔭 I’m currently working on **my study** and Minecraft plugins and mods development.
 - 🌱 I’m currently learning **Chinese, math, English, physics, chemistry, biology and of course Python, Java, C, C++**.
 - 👯 I’m looking to collaborate on **Minecraft-related developments**.
