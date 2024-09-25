@@ -6,20 +6,16 @@
 Here are some ideas to get you started:
 -->
 
-I'm dixiatielu, a Chinese senior high student.
+I'm dixiatielu, a third-yead undergraduate of Sichuan University, China.
 
-**Trying my best to enter a really nice university!**
-
-**See you in 2022 summer!**
-
-Here are my GitHub stats:
+My GitHub stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=dixiatielu&show_icons=true&theme=gruvbox)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dixiatielu&theme=dracula&layout=compact)
 
-- 🔭 I’m currently working on **my study** and Minecraft plugins and mods development.
-- 🌱 I’m currently learning **Chinese, math, English, physics, chemistry, biology and of course Python, Java, C, C++**.
-- 👯 I’m looking to collaborate on **Minecraft-related developments**.
+- 🔭 I’m currently working on automation control. Trying to understand Computer Vision part of robomaster. Was passionate on Minecraft plugins and mods development.
+- 🌱 I’m currently learning OpenCV and ROS2, also interested in voice synthesis and NLP.
+- 👯 I’m looking to collaborate on (IDK for now).
 - 🤔 I’m looking for help with **something? Maybe will be added later**.
 - 💬 Ask me about **some easy questions ;D**.
 - 📫 How to reach me: **You can find my twitter account and my email address in my profile page.**.
