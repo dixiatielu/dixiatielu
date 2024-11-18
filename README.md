@@ -15,11 +15,9 @@ My GitHub stats:
 
 - 🔭 I’m currently working on automation control. Trying to understand Computer Vision part of robomaster. Was passionate on Minecraft plugins and mods development.
 - 🌱 I’m currently learning OpenCV and ROS2, also interested in voice synthesis and NLP.
-- 👯 I’m looking to collaborate on (IDK for now).
-- 🤔 I’m looking for help with **something? Maybe will be added later**.
+- 👯 I’m looking to collaborate on AI things. Although majoring in CV for now, I'm quite interested in NLP and voice synthesizing (Getting an AI vtuber!).
 - 💬 Ask me about **some easy questions ;D**.
 - 📫 How to reach me: **You can find my twitter account and my email address in my profile page.**.
-- 😄 Pronouns: **I really don't know...**
 - ⚡ Some facts: 
   - I **was** an OIer in China.
   - To be continued...
