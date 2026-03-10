@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-I'm dixiatielu, a third-yead undergraduate of Sichuan University, China.
+I'm dixiatielu, a fourth-year undergraduate of Sichuan University, China.
 
 My GitHub stats:
 
