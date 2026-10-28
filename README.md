@@ -1,23 +1,22 @@
 ### Hi there 👋
 
-<!--
-**dixiatielu/dixiatielu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm dixiatielu, a PhD student at Shanghai Jiao Tong University,
+jointly trained with Zhongguancun Academy.
 
-Here are some ideas to get you started:
--->
-
-I'm dixiatielu, a fourth-year undergraduate of Sichuan University, China.
+I graduated from Sichuan University with a degree in Automation.
+These days, I'm trying to teach robots how to move through the world
+without bumping into everything. 🤖
 
 My GitHub stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=dixiatielu&show_icons=true&theme=gruvbox)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dixiatielu&theme=dracula&layout=compact)
 
-- 🔭 I’m currently working on automation control. Trying to understand Computer Vision part of robomaster. Was passionate on Minecraft plugins and mods development.
-- 🌱 I’m currently learning OpenCV and ROS2, also interested in voice synthesis and NLP.
-- 👯 I’m looking to collaborate on AI things. Although majoring in CV for now, I'm quite interested in NLP and voice synthesizing (Getting an AI vtuber!).
-- 💬 Ask me about **some easy questions ;D**.
-- 📫 How to reach me: **You can find my twitter account and my email address in my profile page.**.
-- ⚡ Some facts: 
-  - I **was** an OIer in China.
-  - To be continued...
+- 🔭 I’m currently exploring embodied AI, humanoid robots, and whole-body motion.
+- 🤖 I used to work on vision and navigation for Sichuan University's RoboMaster team. Making robots aim was fun; making them move through the world is the next adventure.
+- 🌱 I’m learning more about robot learning, multimodal perception, and world models.
+- 🎤 I’m also interested in NLP and voice synthesis. The dream of having an AI VTuber is still alive!
+- ⛏️ I used to be passionate about developing Minecraft plugins and mods. Some interests never really leave you.
+- 💬 Ask me about robotics, computer vision, or Minecraft. I’ll try my best to answer ;D
+- 📫 You can find my email and other ways to reach me on my profile, or visit [my website](https://me.dxtl666.com/).
+- ⚡ Fun fact: I **was** an OIer in China. Old habits die hard.
